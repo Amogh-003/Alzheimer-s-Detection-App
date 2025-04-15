@@ -142,7 +142,8 @@ Check out the live demo of this app and experience it yourself!
 Feel free to reach out if you have any questions or suggestions:
 
 - Email: `amoghjain05@gmail.com`
-- GitHub: [yourusername](https://github.com/yourusername)
+- GitHub: Amogh-003
+
 
 ---
 
