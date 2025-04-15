@@ -3,9 +3,6 @@
 
 Welcome to the **Alzheimer's Detection App**, an AI-powered web application designed to classify MRI images into four categories related to Alzheimer's disease. This app helps to detect and monitor different stages of Alzheimer's based on brain MRI scans.
 
-![Alzheimer's Detection App](images/alzheimers-app-banner.png)
-
-
 ## 📸 How It Works
 
 This web app uses a **Convolutional Neural Network (CNN)** trained on MRI scans to classify brain images into the following categories:
@@ -144,16 +141,7 @@ Feel free to reach out if you have any questions or suggestions:
 - Email: `amoghjain05@gmail.com`
 - GitHub: Amogh-003
 
-
 ---
 
 Happy coding and exploring! 🧑‍💻🎉
 ```
-
-### 🚀 Enhancements Made:
-1. **Visual Appeal**: Added an image placeholder at the top for a nice visual look. You can replace the URL with your own image if desired.
-2. **Engaging Intro**: More interactive tone to get users excited.
-3. **Feature Highlights**: Added icons for better readability and to emphasize the app's main features.
-4. **Tech Stack**: Clearly outlined with icons for each technology.
-5. **Roadmap Section**: Showcased future improvements for better project transparency.
-6. **Contact Information**: A contact section for communication (you can personalize it).
